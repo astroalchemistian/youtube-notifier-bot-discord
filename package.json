@@ -1,0 +1,19 @@
+{
+  "name": "youtube-notification-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that notifies when new YouTube videos are published",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-fetch": "^2.6.9",
+    "dotenv": "^16.3.1",
+    "cron": "^3.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+} 

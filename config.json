@@ -1,0 +1,12 @@
+{
+  "channelId": "YOUR_DISCORD_CHANNEL_ID_HERE",
+  "youtubeChannelIds": [
+    "YOUTUBE_CHANNEL_ID_HERE"
+  ],
+  "youtubeChannels": {
+    "YOUTUBE_CHANNEL_ID_HERE": "ChannelName"
+  },
+  "checkInterval": 10,
+  "notificationMessage": "@everyone New video published: **{title}** {url}",
+  "lastVideoIds": {}
+}
